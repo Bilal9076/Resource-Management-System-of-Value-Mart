@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889589506498",
+    "firebase_url": "https://resource-management-syst-f1733-default-rtdb.firebaseio.com",
+    "project_id": "resource-management-syst-f1733",
+    "storage_bucket": "resource-management-syst-f1733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889589506498:android:db67ed9547ee0aa45ff65b",
+        "android_client_info": {
+          "package_name": "com.ValueMart.RMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889589506498-egckl7ajrpjfek9ibci02i2raj8d297i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnm0ZLIjLGp6_KfInTRuCGrtkonuq01QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889589506498-egckl7ajrpjfek9ibci02i2raj8d297i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

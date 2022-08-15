@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Value Mart",
+    "slug": "ValueMart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/AppLogo.png",
+    "splash": {
+      "image": "./assets/logo11.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#289cde"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.ValueMart.RMS",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+        "useNextNotificationsApi": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
